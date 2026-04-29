@@ -38,15 +38,24 @@ I'm a Software Engineer specializing in building production-grade full-stack app
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🏢 Enterprise & Production Experience
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed2242&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed2242&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+> *Note: My primary engineering work is hosted in private repositories due to company IP and security policies. Below is a snapshot of the production systems I've built and shipped.*
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed2242&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
+**💳 Paysupp — FinTech Invoice Financing (.NET Core, React, Azure DevOps)**
+*Architected and shipped production-grade microservices, implementing automated quality gates, SonarQube analysis, and RabbitMQ orchestration within strict OWASP security compliance.*
+
+**🛒 East to West (E2W) — B2B Cross-Border Platform (Node.js, Next.js, TypeScript)**
+*Built a full-stack multi-tenant platform handling complex state management, automated inventory locks, and multi-currency Stripe payment reconciliation across localized China/Dubai storefronts.*
+
+**📦 Supplliex — MENA Multi-Vendor E-Commerce (.NET Clean Architecture)**
+*Developed highly scalable backend infrastructure supporting 10 distinct user roles, high-concurrency operations, and integrated third-party tool APIs (Twilio, Paymob) with robust retry mechanisms.*
+
+**📱 Qentry — B2B SaaS Smart QR Platform (ASP.NET Core, WhatsApp API)**
+*Delivered a multi-tenant corporate SaaS application featuring encrypted QR generation, real-time scan-based dashboards, and automated CRM integration workflows.*
 
 <br/>
 
