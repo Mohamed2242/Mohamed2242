@@ -7,7 +7,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm a Software Engineer specializing in building production-grade full-stack applications and integrating AI/LLM capabilities. I focus on complex state orchestration, reliable tool API design, and production observability. Currently diving deep into **Agentic Workflows, RAG architectures, and AI Evaluation pipelines.**
+I'm a Software Full-stack Engineer specializing in building production-grade full-stack applications and integrating AI/LLM capabilities. I focus on complex state orchestration, reliable tool API design, and production observability. Currently diving deep into **Agentic Workflows, RAG architectures, and AI Evaluation pipelines.**
 
 - 💻 **Dev Workflow:** I leverage agentic coding tools (Cursor, Codex, Claude, and GLM) daily to accelerate delivery without compromising engineering standards.
 - 🚀 **Core Philosophy:** I focus on shipping production systems, not just demos—where observability, evals, and automated quality gates are non-negotiable.
